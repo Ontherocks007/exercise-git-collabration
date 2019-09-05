@@ -1,3 +1,8 @@
 body{
     background: #BDBDBD;
 }
+.jumbotron-fondo{
+    background-image: url("https://cdn.civitatis.com/estados-unidos/nueva-york/new-york-explorer-pass-grid.jpg");
+    background-size: cover;
+    height: 400px;
+}
